@@ -63,14 +63,13 @@
   "awards": [
     {
       "title": "Visiting Scholar",
-      "startDate": "2017-01-09",
-      "endDate": "2019-13-12",      "awarder": "University of Massachusetts Amherst}",
+      "date": "February to June 2024",
+       "awarder": "University of Massachusetts Amherst}",
       "summary": "sponsorship: Prof. Robert Pollin and Prof Michael Ash"
     }, 
     {
       "title": "Visiting Scholar",
-      "startDate": "2017-01-09",
-      "endDate": "2019-13-12",      
+      "date": "September to December 2021-01-09",
       "awarder": "OFCE-SciencesPo, SKEMA Business School, Sophia-Antipolis, France",
       "summary": "sponsorship: Prof. Mauro Napoletano"
     }
