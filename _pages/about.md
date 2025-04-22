@@ -8,12 +8,12 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: true # crops the image to make it circular
-  more_info: >
-    <p>Sant'Anna School of Advnced Studies, Main Building </p>
-    <p>Piazza Martiri della Libertà 33 </p>
-    <p>Pisa, Italy 12345</p>
+  # more_info: >
+  #   <p>Sant'Anna School of Advnced Studies, Main Building </p>
+  #   <p>Piazza Martiri della Libertà 33 </p>
+  #   <p>Pisa, Italy 12345</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
