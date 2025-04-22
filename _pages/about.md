@@ -7,7 +7,7 @@ subtitle: <a href='#'> Macroeconomics, Environmental and Ecological Economics, P
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: true # crops the image to make it circular
+  image_circular: false # crops the image to make it circular
   # more_info: >
   #   <p>Sant'Anna School of Advnced Studies, Main Building </p>
   #   <p>Piazza Martiri della Libertà 33 </p>
