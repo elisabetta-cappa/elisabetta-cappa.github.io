@@ -28,7 +28,19 @@
     }
   ],
   "education": [
+
     {
+    
+      "institution": "Sant'Anna School of Advanced Studies",
+      "location": "Pisa, Italy",
+      "department": "Economics",
+      "studyType": "PhD",
+      "startDate": "2020-01-10",
+      "endDate": "ongoing"
+      
+    },
+    {
+    
       "institution": "Bocconi University",
       "location": "Turin, Italy",
       "department": "Economics and Management of Innovation and Technology",
@@ -37,17 +49,9 @@
       "endDate": "2019-13-12",
       "score": "110L"
     },
+  
     {
-      "institution": "Collegio Carlo Alberto",
-      "location": "Turin, Italy",
-      "department": "Economics and Statistics",
-      "studyType": "Diploma",
-      "startDate": "2017-01-09",
-      "endDate": "2019-13-12",
-      "score": "110L"
-    },
-    {
-      "institution": "University of Torino",
+      "institution": "University of Torino and Collegio Carlo Alberto",
       "location": "Turin, Italy",
       "department": "Economics and Social Sciences",
       "studyType": "BSc",
@@ -59,13 +63,14 @@
   "awards": [
     {
       "title": "Visiting Scholar",
-      "date": "Feb 2024 - June 2024",
-      "awarder": "University of Massachusetts Amherst}",
+      "startDate": "2017-01-09",
+      "endDate": "2019-13-12",      "awarder": "University of Massachusetts Amherst}",
       "summary": "sponsorship: Prof. Robert Pollin and Prof Michael Ash"
     }, 
     {
       "title": "Visiting Scholar",
-      "date": "Sep 2021 - Dec 2021",
+      "startDate": "2017-01-09",
+      "endDate": "2019-13-12",      
       "awarder": "OFCE-SciencesPo, SKEMA Business School, Sophia-Antipolis, France",
       "summary": "sponsorship: Prof. Mauro Napoletano"
     }
