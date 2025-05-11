@@ -5,7 +5,7 @@ permalink: /
 subtitle: <a href='#'> Macroeconomics, Environmental and Ecological Economics, Public Health </a>. 
 
 profile:
-  align: right
+  align: left
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   # more_info: >
@@ -30,5 +30,10 @@ latest_posts:
 # Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
 
 ---
-I am a PhD candidate at the Economics Institute of Sant'Anna school of Advanced Studies in Pisa (Italy). My research interest lies at the intersection of Macroeconomics, Environmental and Ecological Economics and Public Health. 
+Hi, welcome to my page!
 
+I am a PhD candidate at the Economics Institute of Sant'Anna School of Advanced Studies. I did my Bachelor's at Università degli Studi di Torino within the Collegio Carlo Alberto Allievi Honors Program, and I obtained my Master's degree at Bocconi University in 2019. 
+
+My research focus lies at the intersection of macroeconomics, environmental and climate economics.  Within this topic, I am particularly interested in exploring:
+
+The employment consequences of  the energy transition;  the health impacts of climate change and environmental policies; the intersection between macroeconomic dynamics, population health and climate change. 
