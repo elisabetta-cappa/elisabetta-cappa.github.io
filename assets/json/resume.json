@@ -17,14 +17,14 @@
       "position": "Research Assistant",
       "url": "https://example.com",
       "startDate": "2020-01-05",
-      "endDate": "2020-30-09"
+      "endDate": "2020-09"
      
     },
     {
       "name": "Action Institute",
       "position": "Internship in Research for Public Policy Proposals",
       "startDate": "2018-12-01",
-      "endDate": "2019-30-06"
+      "endDate": "2019-06"
     }
   ],
   "education": [
@@ -35,7 +35,7 @@
       "location": "Pisa, Italy",
       "department": "Economics",
       "studyType": "PhD",
-      "startDate": "2020-01-10",
+      "startDate": "2020-10",
       "endDate": "ongoing"
       
     },
@@ -45,8 +45,8 @@
       "location": "Turin, Italy",
       "department": "Economics and Management of Innovation and Technology",
       "studyType": "MSc",
-      "startDate": "2017-01-09",
-      "endDate": "2019-13-12",
+      "startDate": "2017-09",
+      "endDate": "2019-12",
       "score": "110L"
     },
   
@@ -55,21 +55,21 @@
       "location": "Turin, Italy",
       "department": "Economics and Social Sciences",
       "studyType": "BSc",
-      "startDate": "2014-01-10",
-      "endDate": "2017-01-09",
+      "startDate": "2014-10",
+      "endDate": "2017-09",
       "score": "110L"
     }
   ],
   "awards": [
     {
       "title": "Visiting Scholar",
-      "date": "February to June 2024",
+      "date": "Feb - Jun 2024",
        "awarder": "University of Massachusetts Amherst}",
       "summary": "sponsorship: Prof. Robert Pollin and Prof Michael Ash"
     }, 
     {
       "title": "Visiting Scholar",
-      "date": "September to December 2021-01-09",
+      "date": "Feb - Dec 2021",
       "awarder": "OFCE-SciencesPo, SKEMA Business School, Sophia-Antipolis, France",
       "summary": "sponsorship: Prof. Mauro Napoletano"
     }
