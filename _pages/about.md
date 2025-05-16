@@ -35,7 +35,7 @@ Hi, welcome to my page!
 
 I am a PhD candidate at the Economics Institute of Sant'Anna School of Advanced Studies. I did my Bachelor's at Università degli Studi di Torino within the Collegio Carlo Alberto Allievi Honors Program, and I obtained my Master's degree at Bocconi University in 2019. 
 
-My research domain lies at the intersection of macroeconomics, environmental and climate economics.  Within this broad area, I am particularly interested in analysing three main topics:
+My research domain lies at the intersection of macroeconomics, environmental and climate economics.  Within this area, I am particularly interested in analysing three main topics:
 
 <div style="max-width: 700px; margin: 0 auto; text-align: justify;">
 
