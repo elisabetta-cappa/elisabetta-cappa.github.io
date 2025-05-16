@@ -5,7 +5,7 @@ I am a PhD candidate at the Economics Institute of Sant'Anna School of Advanced 
 
 My research domain lies at the intersection of macroeconomics, environmental and climate economics.  Within this broad area, I am particularly interested in analysing three main topics:
 
-<ul style="margin-left: 20px;">
+<ul>
 
 <li> <strong> The macroeconomics of the energy transition</strong>, with a focus on the stimulus potential of green investments, their macro-regional employment impacts, and the crowding-in effects of public climate-related investment policies  </li> 
 <li> <strong> The health impacts of climate change and environmental regulation </strong>,  studying the distributional consequences of climate-related health risks and the effectiveness of mitigation policies in improving population health outcomes. </li> 
