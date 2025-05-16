@@ -4,10 +4,10 @@ title: submenus
 nav: fale
 nav_order: 8
 dropdown: false
-# children:
- # - title: bookshelf
- #   permalink: /books/
- # - title: divider
- # - title: blog
- #   permalink: /blog/
+children:
+  - title: publications
+    permalink: /publications/
+  - title: divider
+  - title: cv
+    permalink: /cv/
 ---
