@@ -46,5 +46,4 @@ latest_posts:
 
 </ul>
 
-</div>
-</div>
+
