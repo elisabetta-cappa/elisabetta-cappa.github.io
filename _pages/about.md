@@ -30,11 +30,11 @@ latest_posts:
 <!-- Right column: text + bullets -->
 <div style="flex: 1; text-align: justify;">
 
-Hi, welcome to my page!
+<p> Hi, welcome to my page! <p> 
 
-I am a PhD candidate at the Economics Institute of the Sant'Anna School of Advanced Studies. I completed my Bachelor's degree at Università degli Studi di Torino within the Collegio Carlo Alberto Allievi Honors Program, and obtained my Master's degree from Bocconi University in 2019.
+<p>  I am a PhD candidate at the Economics Institute of the Sant'Anna School of Advanced Studies. I completed my Bachelor's degree at Università degli Studi di Torino within the Collegio Carlo Alberto Allievi Honors Program, and obtained my Master's degree from Bocconi University in 2019. <p> 
 
-My research domain lies at the intersection of macroeconomics, environmental, and climate economics. Within this area, I am particularly interested in analysing three main topics:
+<p>  My research domain lies at the intersection of macroeconomics, environmental, and climate economics. Within this area, I am particularly interested in analysing three main topics: <p> 
 
 <ul style="margin-left: 20px;">
 
