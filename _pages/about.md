@@ -32,7 +32,9 @@ latest_posts:
 
 <p> Hi, welcome to my page! <p> 
 
-I am a Postdoctoral Researcher at the Economics Institute of the Sant'Anna School of Advanced Studies, Pisa (Italy). My research interests focus on the economic and societal consequences of climate change and climate-related policies. I am particularly interested in their non-market effects—especially health outcomes—and in how these interact with broader economic mechanisms. I combine empirical analyses with agent-based modeling to study both macroeconomic dynamics and micro-level effects.
+<p>I am a Postdoctoral Researcher at the Economics Institute of the Sant'Anna School of Advanced Studies, Pisa (Italy).<p> 
+
+<p>My research interests focus on the economic and societal consequences of climate change and climate-related policies. I am particularly interested in their non-market effects—especially health outcomes—and in how these interact with broader economic mechanisms. I combine empirical analyses with agent-based modeling to study both macroeconomic dynamics and micro-level effects.<p>
 
 </ul>
 
