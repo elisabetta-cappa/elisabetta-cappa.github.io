@@ -36,6 +36,5 @@ latest_posts:
 
 <p>My research interests focus on the economic and societal consequences of climate change and climate-related policies. I am particularly interested in their non-market effects—especially health outcomes—and in how these interact with broader economic mechanisms. I combine empirical analyses with agent-based modeling to study both macroeconomic dynamics and micro-level effects.<p>
 
-</ul>
 
 
