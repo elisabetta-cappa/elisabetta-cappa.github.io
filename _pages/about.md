@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: <a href='#'> Macroeconomics, Environmental and Ecological Economics, Public Health </a>. 
 
